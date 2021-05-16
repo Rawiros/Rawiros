@@ -15,14 +15,6 @@
 #### Working on projects
 ![https://github.com/redeeerrrek/discord.js-examples/](https://img.shields.io/badge/-%F0%9F%93%81%20Discord.JS%20Examples-0d0d0d?)
 
-![](https://github-readme-stats.vercel.app/api?username=rawiros&theme=cobalt&show_icons=true)
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rawiros&theme=cobalt&layout=compact)
-
-## No, stop i'm not cute.
-```csharp
-he rawir = new he();
-if(rawir.cute) return "No u";
-```
   
+<a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=rawiros&hide_title=true&hide_border=true&theme=cobalt&show_icons=true&include_all_commits=true&&line_height=21" /><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawiros&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=cobalt"/></a>
