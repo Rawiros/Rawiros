@@ -1,4 +1,7 @@
-Yes, i'm furry and like javascript
+Yes, he is furry.
+
+- **Languages** CSharp, Javascript
+- **Pronouns** he/him
 
 ![](https://github-readme-stats.vercel.app/api?username=rawiros&theme=cobalt&show_icons=true)
 
