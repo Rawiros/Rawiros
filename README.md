@@ -11,3 +11,7 @@ Yes, he is furry.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rawiros&theme=cobalt&layout=compact)
 
+```csharp
+he rawir = new he();
+if(rawir.cute) return "No u";
+```
