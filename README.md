@@ -3,8 +3,8 @@
 
 #### Information
 
-![Bisexual](https://img.shields.io/badge/-%F0%9F%92%9C%20Bisexual-ff0080?)
 ![He/Him/His](https://img.shields.io/badge/-%F0%9F%A7%91%20He/Him/His-2a7ecc?)
+![Bisexual](https://img.shields.io/badge/-%F0%9F%92%9C%20Bisexual-ff0080?)
 ![Furry](https://img.shields.io/badge/-%F0%9F%A6%8A%20Furry-e5760d)
 ![Weeb](https://img.shields.io/badge/-%F0%9F%8D%AD%20Weeb-d908e0?)
 <img src="https://raw.githubusercontent.com/Rawiros/Rawiros/main/line.png" width="100%">
