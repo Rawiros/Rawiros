@@ -22,6 +22,7 @@ https://img.shields.io/badge/-DM%20me%20on%20discord!-0d0d0d?&logo=discord)
 <img src="https://raw.githubusercontent.com/Rawiros/Rawiros/main/line.png" width="100%">
 #### Working on projects
 ![https://github.com/redeeerrrek/discord.js-examples/](https://img.shields.io/badge/-%F0%9F%93%81%20Discord.JS%20Examples-0d0d0d?)
+![https://github.com/ztbw/cc-generator/](https://img.shields.io/badge/-%F0%9F%92%B3Credit%20Card%20generator-0d0d0d?)
 
 <img src="https://raw.githubusercontent.com/Rawiros/Rawiros/main/line.png" width="100%">
 
