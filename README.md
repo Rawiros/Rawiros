@@ -15,7 +15,6 @@ https://img.shields.io/badge/-DM%20me%20on%20discord!-0d0d0d?&logo=discord)
 
 #### Languages
 
-![CSharp](https://img.shields.io/badge/-CSharp-0d0d0d?&logo=c-sharp&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0d0d0d?&logo=JavaScript&logoColor=ddc508)
 ![HTML](https://img.shields.io/badge/-HTML-0d0d0d?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-0d0d0d?&logo=CSS3&logoColor=blue)
