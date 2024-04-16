@@ -20,5 +20,5 @@
 <img src="https://raw.githubusercontent.com/Rawiros/Rawiros/main/line.png" width="100%">
 
 <p align="center">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=rawiros&hide_title=true&hide_border=true&theme=cobalt&show_icons=true&include_all_commits=true&&line_height=21"/>
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=rawiros&hide_title=true&hide_border=true&theme=cobalt&show_icons=true&include_all_commits=true&&line_height=20"/>
 </p>
